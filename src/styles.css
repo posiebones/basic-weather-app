@@ -13,7 +13,8 @@ body {
   .form-group,
   .form-control,
   .exampleEnterCity,
-  .location {
+  .location
+  .city-search {
     display: block;
     text-align: center;
     font-family: "Questrial Regular", -apple-system, BlinkMacSystemFont,
